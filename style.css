@@ -38,3 +38,20 @@ footer {
 .cv-button:hover {
     background-color: #0056b3;
 }
+.cv-section {
+    padding: 20px;
+}
+
+.cv-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.cv-photo {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 15px;
+    border: 3px solid #4CAF50;
+}
